@@ -27,7 +27,9 @@ url: "https://suddenlysixam.github.io" # the base hostname & protocol for your s
 github_username:  suddenlysixam
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: sighingnow/jekyll-gitbook
+syntax_highlighter_style: colorful
 # plugins:
 #   - jekyll-feed
 
